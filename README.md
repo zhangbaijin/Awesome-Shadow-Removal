@@ -28,6 +28,8 @@ Collection of recent shadow removal works. Questions and discussions are most we
 * `Arxiv2022` UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal [[Paper]](https://arxiv.org/pdf/2203.15441v1.pdf)
 * `CVPR2022` Bijective Mapping Network for Shadow Removal [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.pdf)
 
+* `Arxiv2022` SpA-Former: Tranformer image shadow detection and shadow removal [[Paper]](https://arxiv.org/abs/2206.10910) [[Code]](https://github.com/zhangbaijin/SpA-Former-shadow-removal)
+
 
 ### Weakly-Supervised-Deep-Learning Algorithm 
 
